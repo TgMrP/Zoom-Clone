@@ -64,4 +64,5 @@ https://your.IP.addr/
 ```
 
 in your borwser. It's likely to have a warning `NET::ERR_CERT_AUTHORITY_INVALID` or somthing like that. For Chrome, just click _Advance_, _Continue..._
+
 It will automatically generate a uuid and redirect you to your chatting room. For anyone want to join you, you can just share the url of your chatting room.
